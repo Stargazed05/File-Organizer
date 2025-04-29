@@ -1,0 +1,63 @@
+Videos:
+mp4, mkv, avi, mov, wmv, flv, webm, m4v, mpg, mpeg, 3gp, 3g2, rm, rmvb, ogv, ts, mts, m2ts, vob, amv, f4v, mxf, asf, divx, m1v, m2v, dv, tod
+
+Images:
+jpg, jpeg, png, gif, bmp, tiff, tif, svg, webp, heic, heif, raw, arw, cr2, nef, dng, orf, sr2, pef, raf, 3fr, erf, k25, kdc, mef, mos, mrw, srf, x3f, ico, apng, jxr, jpe, wbmp, avif, pgm, ppm, pbm, pnm, exr, hdr
+
+Documents:
+pdf, doc, docx, xls, xlsx, ppt, pptx, txt, odt, ods, odp, rtf, md, csv, tsv, json, xml, yml, yaml, log, tex, rst, xps, wpd, epub, mobi, azw, azw3, fb2, lit, chm, ps, djvu, nb, markdown, sxw, abw, pages, key, numbers, cbr, cbz
+
+Executables:
+exe, msi, bat, sh, apk, com, bin, jar, cmd, app, out, run, elf, gadget, wsf, command, cpl, scr, pif, vbs, ps1, ksh, pl, py, pyc, pyw, rb, rbx, rbc
+
+Compressed Files:
+zip, rar, 7z, tar, gz, bz2, xz, lz, lzma, lzh, iso, cab, dmg, arj, ace, z, jar, sit, sitx, uue, rpm, deb, pkg, cpio, xar, img, bin, hqx, tgz, tbz2, txz, tzst, zst, apk, crx
+
+Music (Audio):
+mp3, wav, flac, aac, ogg, m4a, wma, alac, opus, aiff, aif, au, amr, ac3, dts, mid, midi, mka, mpa, ape, ra, ram, voc, snd, cda, mpc, spx, tta, gsm
+
+System Files:
+sys, dll, ini, cfg, inf, dat, tmp, bak, drv, vxd, icns, plist
+
+Disk Image Files:
+iso, img, bin, nrg, vmdk, vdi, qcow2, dmg, cdr
+
+Database Files:
+db, sql, sqlite, mdb, accdb, dbf, odb, frm, ibd, myd, myi, ndf, ldf
+
+Spreadsheet & Data Files:
+xls, xlsx, csv, tsv, ods, xml, json, yaml, sav, dta, por, rdata, arff, sps, xlw
+
+Source Code / Programming Files:
+py, java, cpp, c, cs, js, ts, html, css, php, rb, swift, go, kt, rs, pl, lua, r, sh, bat, json, xml, jsx, tsx, scss, yaml
+
+Configuration & Markup Files:
+xml, json, yaml, yml, ini, toml, cfg, env, conf
+
+Logs & Reports:
+log, out, err, report, trace, audit
+
+Game Files:
+sav, pak, rom, nes, gba, gci, dat, bin, wad, iso, map, lvl
+
+Package & Installer Files:
+apk, deb, rpm, msi, exe, pkg, snap, crx, appx, dmg, xapk
+
+Fonts:
+ttf, otf, fon, fnt, woff, woff2
+
+Plugins & Extensions:
+crx, xpi, oxt, vsix, plugin, dll
+
+CAD, 3D & Design Files:
+dwg, dxf, stl, obj, fbx, skp, step, iges, blend, 3ds, glb, dae
+
+Design & Graphics Files:
+psd, ai, eps, svg, indd, xd, fig, afdesign, sketch
+
+Project Files:
+proj, aep, prproj, veg, ppj, sln, csproj, xcodeproj
+
+Web Files:
+html, htm, css, js, php, asp, jsp, json, xml, webmanifest, wasm
+
