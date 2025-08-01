@@ -5,7 +5,7 @@ import os
 import shutil
 from tkinter import filedialog
 from tkinter import Tk
-
+#comment for tests
 
 def dict_maker(lines):
     result = {}
